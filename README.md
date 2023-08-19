@@ -2,16 +2,16 @@
 <body>
   
   <h1>
-    Chrystian Melo
+    Isabela Pereira
   </h1>
-    <p>🎓 Computational Mathematics @ UFMG</p>
-    <p>💻 Research Software Engineer @ CSR</p>
+    <p>🎓 Licenciatura Historia @ UFMG</p>
+    <p>💻 Professora @ Secretaria de Educação de Minas Gerais</p>
   <div>
     <h3>Contact</h3>
-    <a href = "mailto:meloo.chrys@gmail.com" target="_blank">
+    <a href = "mailto:isabelag021@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/ChrystianMelo" target="_blank">
+    <a href="https://www.linkedin.com/in/isabela-gomes-pereira-261869230/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
     </a>   
   </div>
